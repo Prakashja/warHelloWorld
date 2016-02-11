@@ -143,7 +143,9 @@ scm:git:git://github.com/vpupkin/warHelloWorld.git
 <!-- If a version is specified then the context path remains unchanged and both the context name and the base name have the string '##' appended to them followed by the version identifier.
 
 
--->				          <path>/helloworld##${maven.build.timestamp}</path>
+				          <path>/helloworld##${maven.build.timestamp}</path>
+-->
+
         <webapps>
             <webapp>
 <!-- <finalName>Must Be Same with warName!!!
