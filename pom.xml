@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.blky</groupId>
 	<artifactId>hello-world</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Hello World Web Application With Buildnumber</name>
 	<description>Simplest possible Java Webapp</description>
